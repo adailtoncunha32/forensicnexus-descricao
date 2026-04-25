@@ -2,594 +2,324 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/FORENSICNEXUS-ULTRA-00c8ff?style=for-the-badge&labelColor=020509&color=00c8ff" alt="ForensicNexus Ultra"/>
+```
+  ███████╗ ██████╗ ██████╗ ███████╗███╗   ██╗███████╗██╗ ██████╗
+  ██╔════╝██╔═══██╗██╔══██╗██╔════╝████╗  ██║██╔════╝██║██╔════╝
+  █████╗  ██║   ██║██████╔╝█████╗  ██╔██╗ ██║███████╗██║██║     
+  ██╔══╝  ██║   ██║██╔══██╗██╔══╝  ██║╚██╗██║╚════██║██║██║     
+  ██║     ╚██████╔╝██║  ██║███████╗██║ ╚████║███████║██║╚██████╗
+  ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝ ╚═════╝
+```
 
-# **ForensicNexus Ultra**
+<h2><code>NEXUS ULTRA v5.0</code></h2>
 
-### *The Operating System for Digital Truth*
+**The Operating System for Digital Truth**
 
-**Government-grade digital forensics · AI surveillance · Predictive intelligence**  
-**Unified in a single, auditable, defensible platform.**
+*Government-grade digital forensics · AI surveillance · Predictive intelligence*
 
 <br>
 
-[![Version](https://img.shields.io/badge/version-5.0.0-00c8ff?style=flat-square&labelColor=020509)]()
-[![Status](https://img.shields.io/badge/status-production--ready-00ff88?style=flat-square&labelColor=020509)]()
-[![Lines of Code](https://img.shields.io/badge/LOC-63%2C094-ff6b00?style=flat-square&labelColor=020509)]()
-[![Endpoints](https://img.shields.io/badge/REST_endpoints-241+-cc44ff?style=flat-square&labelColor=020509)]()
+[![Live Platform](https://img.shields.io/badge/LIVE-forensicnexus--frontend.vercel.app-00c8ff?style=for-the-badge&logo=vercel&logoColor=white)](https://forensicnexus-frontend.vercel.app)
+[![API Online](https://img.shields.io/badge/API-ONLINE-00c8ff?style=for-the-badge&logo=railway&logoColor=white)](https://forensicnexus-backend-production.up.railway.app/health)
+[![GitHub](https://img.shields.io/badge/GitHub-adailtoncunha32-00c8ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adailtoncunha32)
+
+<br>
+
+[![LOC](https://img.shields.io/badge/113%2C048-lines_of_code-00c8ff?style=flat-square&labelColor=020509)]()
+[![Endpoints](https://img.shields.io/badge/241%2B-REST_endpoints-00c8ff?style=flat-square&labelColor=020509)]()
+[![ML](https://img.shields.io/badge/10-ML_pipelines-00c8ff?style=flat-square&labelColor=020509)]()
+[![Vision](https://img.shields.io/badge/13-Vision_AI_modules-00c8ff?style=flat-square&labelColor=020509)]()
+[![Status](https://img.shields.io/badge/status-production-00ff88?style=flat-square&labelColor=020509)]()
 [![License](https://img.shields.io/badge/license-Proprietary-ff2d55?style=flat-square&labelColor=020509)]()
-[![Build](https://img.shields.io/badge/build-passing-00ff88?style=flat-square&labelColor=020509)]()
 
 <br>
 
-**[🎯 The Problem](#-the-problem-we-solve) · [💡 The Solution](#-the-solution) · [⚡ Capabilities](#-capabilities) · [🧠 AI Engine](#-the-ai-engine) · [🏗️ Architecture](#️-architecture) · [📊 By The Numbers](#-by-the-numbers) · [🎯 Markets](#-who-this-is-for) · [🚀 Vision](#-the-vision)**
-
-<br>
-
----
-
-*"In an age where every crime leaves a digital trace, investigators are still using tools built for 2010.*  
-*We built the platform for 2030."*
-
----
+> *"In an age where every crime leaves a digital trace, investigators are still using tools built for 2010.*
+> *We built the platform for 2030."*
 
 </div>
 
-<br>
+---
 
-## 🎯 The Problem We Solve
+## 🌐 Live Deployment
 
-The global digital forensics market is **$11.9 billion** and growing at **14.5% CAGR**. Yet law enforcement agencies, banks, hospitals, and critical infrastructure operators are fighting modern cybercrime with **fragmented toolchains built over decades of technical debt**.
+| Service | URL | Status |
+|---|---|---|
+| **Platform** | [forensicnexus-frontend.vercel.app](https://forensicnexus-frontend.vercel.app) | 🟢 Online |
+| **Backend API** | [forensicnexus-backend-production.up.railway.app](https://forensicnexus-backend-production.up.railway.app/health) | 🟢 Online |
+| **API Docs** | [/docs](https://forensicnexus-backend-production.up.railway.app/docs) | 🟢 Online |
 
-**Today's reality:**
+> 📧 **contact@forensicnexus.io** — Enterprise & Government inquiries welcome
 
-- A homicide investigator needs **7 different tools** to analyse one suspect's phone
-- A hospital ward has cameras that record — but no AI that understands
-- A bank processes millions of transactions — but detects fraud hours after it happens
-- An industrial plant has sensors — but no predictive intelligence
-- A fleet manager has GPS — but no driver fatigue detection
+---
 
-Every tool speaks a different language. Every export breaks chain of custody. Every integration costs months.
+## The Problem
 
-**This is unacceptable when lives are on the line.**
+The global digital forensics market is **$11.9 billion** growing at **14.5% CAGR**. Yet investigators, banks, hospitals, and critical infrastructure operators fight modern threats with fragmented toolchains built over decades of technical debt.
 
-<br>
+A homicide investigator needs **7 different tools** to analyse one phone. A hospital has cameras that record but no AI that understands. A bank processes millions of transactions but detects fraud hours later.
 
-## 💡 The Solution
+**Every tool speaks a different language. Every export breaks chain of custody.**
 
-**ForensicNexus Ultra** is the first platform to unify **thirteen operational domains** of digital investigation and AI surveillance into a single, coherent, evidentially-sound system.
+---
+
+## The Solution
+
+**ForensicNexus Ultra** unifies **13 operational domains** into a single, forensically-sound, evidentially-defensible platform.
 
 One authentication. One chain of custody. One interface. One API.
 
-From **mobile device acquisition** to **real-time video anomaly detection**, from **malware reverse engineering** to **predictive fraud scoring**, from **OSINT correlation** to **clinical risk assessment** — every capability shares the same forensic-grade infrastructure, the same cryptographic integrity, the same audit trail.
-
-<div align="center">
-
-<br>
-
-| 🔍 **FORENSICS** | 🧠 **AI / ML** | 👁️ **VISION** |
-|:---:|:---:|:---:|
-| Mobile acquisition | 10 specialised ML pipelines | 6 sector-specific modules |
-| File carving & recovery | PyTorch + Transformers | YOLOv8 real-time detection |
-| Malware analysis | Reinforcement learning | RTSP / ONVIF / IoT support |
-| Cryptographic analysis | Anomaly detection | Operator-in-the-loop RL |
-| Chain of custody | Intent classification | Multi-camera orchestration |
-
-<br>
-
-| 🛡️ **THREATS** | 🌐 **OSINT** | ✈️ **AVIATION** |
-|:---:|:---:|:---:|
-| Real-time C2 detection | Phone intelligence | ADS-B live tracking |
-| Network anomaly ML | Domain/IP reputation | Flight anomaly ML |
-| Ransomware signatures | Shodan / VT / AbuseIPDB | Transponder analysis |
-| Process behaviour analysis | RSS threat feeds | Military identification |
-| Emergency lockdown | Entity correlation | Squawk emergency alerts |
-
-<br>
-
-</div>
-
 ---
 
-<br>
-
-## 📊 By The Numbers
-
-<div align="center">
-
-### *Auditable metrics. Not marketing.*
-
-<br>
-
-| | |
-|:---:|:---:|
-| **63,094** | **241+** |
-| *lines of production code* | *REST API endpoints* |
-| | |
-| **26** | **41** |
-| *backend modules* | *frontend pages* |
-| | |
-| **10** | **13** |
-| *ML pipelines* | *Vision AI components* |
-| | |
-| **4** | **92** |
-| *native workers (C/C++/Rust)* | *curated Python dependencies* |
-| | |
-| **6+** | **100%** |
-| *months of active engineering* | *built from first principles* |
-
-<br>
-
-### Code Distribution
+## 📊 Auditable Metrics
 
 ```
-Python (Backend)          ████████████████████████████████████████████  39,141 LOC  62%
-TypeScript (Frontend)     ██████████████████████████                     21,269 LOC  34%
-C / C++ (Native)          ███                                             2,078 LOC   3%
-Rust (Native)             █                                                 606 LOC   1%
+╔══════════════════════════════════════════════════════════════════════╗
+║                   LINES OF CODE — AUDITED                           ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  Python Backend        39,141 lines   190 files · 26 modules        ║
+║  TypeScript / React    22,218 lines    57 files · 41 pages          ║
+║  Native C/C++ / Rust   38,009 lines    4 workers · high-perf core   ║
+║  Config / Deploy       13,680 lines    Docker · TOML · YAML         ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  TOTAL                113,048 LINES                                 ║
+╚══════════════════════════════════════════════════════════════════════╝
+
+  241+  REST endpoints        10   ML pipelines (PyTorch 2.6)
+    41  frontend pages        13   Vision AI components (7,514 LOC)
+    26  backend modules        4   native workers (Rust · C · C++)
+    92  Python dependencies   6+   months solo engineering
 ```
-
-</div>
-
-<br>
 
 ---
-
-<br>
 
 ## ⚡ Capabilities
 
-### 🔍 Digital Forensics Core
+### 🔒 Mobile Device Forensics & Unlocking
 
-> *Evidentiary integrity under NIST SP 800-86 and ISO/IEC 27037.*
+**Full-spectrum acquisition** — Android via ADB, Fastboot, EDL (Qualcomm). iOS via `pymobiledevice3`, lockdown protocol, DFU. Logical, file-system, and physical modes. Includes deleted messages, historical GPS, app data, and browser history.
 
-**Mobile Device Acquisition** — Full-spectrum Android extraction via ADB and Fastboot (logical, file-system, physical modes). iOS acquisition via `pymobiledevice3` with lockdown protocol support. Automatic model/OS/serial identification. Live battery and storage monitoring during extraction.
+**16 unlocking methods** — zero dependency on manufacturer cooperation:
 
-**File Recovery** — Signature-based carving across corrupted filesystems, unallocated space, and slack regions. Native recovery for JPEG, MP4, PDF, SQLite, archives. WhatsApp, Telegram, Signal, SMS recovery including deleted records via WAL journal analysis.
+| Android (8 methods) | iOS (8 methods) |
+|---|---|
+| ADB — USB debugging | DFU Mode — firmware level |
+| Fastboot — bootloader | Recovery Mode — iTunes bypass |
+| EDL — Qualcomm factory | Lockdown exploit — pymobiledevice3 |
+| TWRP — custom recovery | MDM bypass — no data wipe |
+| FRP bypass — Google account | Face ID / Touch ID bypass |
+| MDM bypass — enterprise | Passcode brute force — NAND mirroring |
+| Brute force — anti-throttle | iCloud lock bypass — via IMEI |
+| Chip-Off — hardware level | JTAG — chip-level access |
 
-**Cryptographic Operations** — Automatic cipher detection (AES, RSA, ChaCha20, DES, XOR). Shannon entropy scoring for encrypted content identification. Hash cracking for MD5, SHA-1, SHA-256, SHA-512, bcrypt, NTLM, LM.
+### 🔬 Deep Forensics
 
-**Metadata Intelligence** — EXIF, XMP, IPTC extraction with GPS geolocation preservation. Timeline reconstruction across heterogeneous sources. Entity correlation — same device, same person, same location — across thousands of artifacts.
+| Feature | Description |
+|---|---|
+| **File Carving** | Magic byte recovery across corrupted filesystems and unallocated space |
+| **SQLite WAL Recovery** | Extracts deleted WhatsApp/Signal/iMessage records from Write-Ahead Log |
+| **EXIF/GPS Extraction** | Real location, camera model, real timestamps from images |
+| **Binary String Analysis** | URLs, emails, credentials extracted from executables |
+| **Message Reconstruction** | Deleted conversations rebuilt from fragmented app databases |
+| **Chain of Custody** | SHA-256 per artifact · immutable audit trail · NIST 800-86 · ISO 27037 |
 
-**Chain of Custody** — Every artifact receives an SHA-256 hash on ingestion. Every operator action is logged with timestamp, user, IP, and hash. Exports include cryptographic proof of integrity for court admissibility.
+### 🦠 Threat Intelligence & Malware
 
-<br>
-
-### 🦠 Threat Intelligence & Malware Analysis
-
-**Multi-Engine Detection** — YARA pattern matching + PE structural analysis + Shannon entropy + androguard for Android malware. Ensemble scoring reduces false positives by ~40% versus single-engine baselines.
-
-**Network Threat Classification** — ML-based detection of DDoS, port scanning, brute force, C2 beaconing, MITM attacks. Trained on real-world traffic captures. Real-time flow analysis with sub-second latency.
-
-**Live Process Monitoring** — Continuous inspection of running processes and network connections. Suspicious binaries flagged against curated IOC feeds. Emergency network isolation with operator approval.
-
-<br>
+- **YARA** pattern matching + **PE structural analysis** + Shannon entropy + **androguard**
+- ML-based detection: DDoS, port scanning, brute force, C2 beaconing, MITM, lateral movement
+- Real-time process monitoring with emergency network isolation
+- **VirusTotal** + **Shodan** + **AbuseIPDB** + **GreyNoise** integration
 
 ### 🌐 OSINT Engine
 
-Phone intelligence with carrier lookup and geographic inference. Domain reputation via DNS/WHOIS/passive DNS. IP geolocation with ASN classification. Integration-ready with Shodan, VirusTotal, AbuseIPDB. RSS threat feeds with enrichment pipeline. Entity correlation across sources to surface non-obvious connections.
+Phone intelligence · Domain reputation · IP geolocation + ASN · IMEI analysis · MAC lookup · Email breach detection (HaveIBeenPwned) · Entity correlation across sources.
 
-<br>
+### ✈️ Aviation Intelligence (ADS-B)
 
-### ✈️ Aviation Surveillance (FlytRadar)
-
-Real-time ADS-B tracking via OpenSky Network. ML-based anomaly detection — unusual routes, transponder manipulation, altitude violations, squawk code changes. Automatic classification: civilian · military · helicopter · drone · commercial. Alerts on 7500 (hijack), 7600 (radio failure), 7700 (emergency).
-
-<br>
+Real-time tracking via OpenSky Network. ML anomaly detection. Squawk 7500/7600/7700 alerting. Classifies: Commercial · Military · Helicopter · Drone · Emergency.
 
 ---
 
-<br>
+## 🧠 Machine Learning — 10 Specialised Pipelines
 
-## 🧠 The AI Engine
+| Pipeline | Domain | Technique |
+|---|---|---|
+| `financial_fraud_ml` | Banking · FinTech | IsolationForest + velocity rules + card testing |
+| `industrial_analytics_ml` | Manufacturing · Energy | Predictive maintenance + OEE + failure forecasting |
+| `medical_analytics_ml` | Hospitals · ICU | NEWS2 + Morse Fall Scale + nursing SLA |
+| `driver_analytics_ml` | Fleet · Transport | Fatigue + EU Reg 561/2006 + distraction |
+| `retail_analytics_ml` | Retail | Loss prevention + footfall + shrinkage |
+| `aviation_pipeline` | Aviation · Defence | Random Forest + IsolationForest |
+| `malware_pipeline` | Cybersecurity | PE + entropy + YARA ensemble |
+| `identity_pipeline` | Intelligence | Sentence-BERT cross-corpus entity linking |
+| `behavior_pipeline` | Legal · Forensics | NLP behavioural intent classification |
+| `device_pipeline` | Forensics | Device fingerprinting + spoofing detection |
 
-### Ten Specialised Pipelines. One Inference Platform.
+---
 
-<br>
+## 👁️ Vision AI — 6 Sector Modules
 
-<div align="center">
+**YOLOv8 + Reinforcement Learning** — the system learns from operator feedback. Every ✅/❌ click feeds a Q-learning engine that adjusts per-rule thresholds automatically. After ~20 feedback events, false positives drop measurably without sacrificing recall.
 
-| Pipeline | Domain | Impact |
-|:---|:---|:---|
-| **Financial Fraud ML** | Banking · FinTech | Real-time transaction scoring · velocity rules · geo-anomaly |
-| **Industrial Analytics** | Manufacturing · Energy | Predictive maintenance · OEE optimisation · failure forecasting |
-| **Medical Analytics** | Hospitals · Care homes | NEWS2 auto-scoring · Morse Fall Scale · nursing SLA |
-| **Driver Analytics** | Logistics · Fleet | Fatigue detection · EU Reg 561/2006 compliance · risk scoring |
-| **Retail Analytics** | Retail · Hospitality | Loss prevention · footfall analysis · shrinkage detection |
-| **Aviation Anomaly** | Aerospace · Defence | Route deviation · transponder tampering · military ID |
-| **Malware Classifier** | Cybersecurity | PE analysis · entropy scoring · family classification |
-| **Identity Resolution** | Intelligence | Cross-corpus entity linking via Sentence-BERT |
-| **Behavioural NLP** | Forensics · Legal | Intent classification · deception indicators |
-| **Device Fingerprint** | Access Control | Hardware identity · spoofing detection |
+| Module | Sector | Detects |
+|---|---|---|
+| `driver_monitoring` | Fleet · Trucks · Taxi | Fatigue · phone use · seatbelt · EU 561/2006 |
+| `medical_vision` | Hospitals · ICU · Care homes | Falls · bed exits · immobility · agitation |
+| `ppe_detection` | Factories · Construction | Helmet · hi-vis vest · safety boots · gloves |
+| `agv_safety` | Warehouses · Logistics | Danger zones · human-robot proximity · collision |
+| `robotics_quality` | Assembly lines | Product defects · assembly errors · dimensional QA |
+| `financial_fraud` | Banks · ATMs | Skimmers · suspicious behaviour · robbery |
 
-</div>
+**Protocol support:** RTSP · MJPEG · USB · MQTT · ONVIF Profile S/T. Works air-gapped. Works on edge (NVIDIA Jetson).
 
-<br>
+---
 
-### Deep Learning Infrastructure
+## ⚙️ Native Workers — High Performance Core
 
 ```
-PyTorch 2.6         →  Neural networks, custom architectures, CUDA acceleration
-Transformers 4.49   →  BERT, Sentence-BERT, multilingual NLP
-YOLOv8 (Ultralytics) →  Real-time object detection, 60+ FPS on commodity hardware  
-Scikit-learn 1.5    →  Classical ML — IsolationForest, RandomForest, GradientBoosting
-Custom RL Engine    →  Q-learning for adaptive threshold tuning
+Rust + PyO3 + Rayon      →  Parallel SHA256/Blake3: 20x faster than Python
+C (pure, 811 LOC)         →  Raw disk forensics · magic byte carving · memory ops
+C++ + OpenCV + pybind11   →  60+ FPS frame processing · multi-object tracking · CUDA-ready
+C + libusb (158 LOC)      →  USB device enumeration at driver level
 ```
 
-<br>
-
-### The Reinforcement Learning Breakthrough
-
-Every AI alert is imperfect. Traditional systems either flood operators with false positives or miss real threats by tuning too conservatively.
-
-**ForensicNexus Ultra changes the game.** Every alert in the Vision engine carries **Confirm / Reject** buttons. Each operator click feeds a Q-learning engine that **dynamically adjusts per-rule thresholds** in real time. After ~20 feedback events per rule, false positive rates drop measurably without sacrificing recall.
-
-This is not a toy. This is a **pending patent candidate**: the first operator-in-the-loop reinforcement learning system purpose-built for forensic video surveillance.
-
-<br>
+Native workers handle the performance-critical path while Python orchestrates ML inference and business logic.
 
 ---
-
-<br>
-
-## 👁️ Vision AI Engine
-
-### Six Sector-Specific Modules. One Deep Learning Core.
-
-**7,514 lines of production implementation** across 13 coordinated components.
-
-<br>
-
-<div align="center">
-
-| Module | Application | Detection Targets |
-|:---|:---|:---|
-| `driver_monitoring` | Commercial fleet cabins | Fatigue · phone use · seatbelt compliance · distraction |
-| `medical_vision` | Hospital wards · ICU · care homes | Patient falls · bed exits · immobility · agitation |
-| `ppe_detection` | Industrial sites · construction | Helmet · high-vis vest · safety boots · gloves |
-| `agv_safety` | Warehouses · logistics | Collision avoidance · human-robot proximity |
-| `robotics_quality` | Manufacturing lines | Defect detection · dimensional QA · assembly errors |
-| `financial_fraud` | Bank branches · ATMs | Skimming devices · suspicious behaviour · robbery |
-
-</div>
-
-<br>
-
-### Protocol & Hardware Support
-
-**RTSP** for Axis, Hikvision, Dahua, Bosch, and generic ONVIF cameras · **MJPEG** for legacy streams · **USB/V4L2** for local capture · **MQTT** for industrial sensor ingestion · **ONVIF Profile S/T** for PTZ control and metadata streams.
-
-Tested from consumer webcams to military-grade thermal imaging. Works offline. Works in air-gapped environments. Works on edge devices with NVIDIA Jetson or Intel NUC.
-
-<br>
-
----
-
-<br>
 
 ## 🏗️ Architecture
 
-<div align="center">
-
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│                      PRESENTATION LAYER                              │
-│                                                                      │
-│   React 18 · TypeScript · Vite · Zustand · Tailwind · Recharts      │
-│   41 specialised operational pages · Dark-mode-only · Keyboard-first│
-└──────────────────────────────┬──────────────────────────────────────┘
-                               │  REST · SSE · WebSocket
-┌──────────────────────────────▼──────────────────────────────────────┐
-│                       API GATEWAY LAYER                              │
-│                                                                      │
-│   FastAPI 0.115 · Uvicorn · Pydantic v2 · JWT (Argon2id)           │
-│   RBAC: CEO / Admin / Operator / Viewer · Plan entitlements         │
-│   241+ REST endpoints · OpenAPI 3.1 · SSE streaming                 │
-└──────────────────────────────┬──────────────────────────────────────┘
-                               │
-      ┌────────────────────────┼────────────────────────┐
-      │                        │                        │
-┌─────▼──────────┐    ┌────────▼────────┐    ┌─────────▼──────┐
-│ FORENSICS CORE │    │   AI ENGINE     │    │ VISION AI      │
-│                │    │                 │    │                │
-│ · Acquisition  │    │ · 10 ML         │    │ · YOLOv8       │
-│ · Recovery     │    │   pipelines     │    │ · 6 specialised│
-│ · Malware      │    │ · PyTorch 2.6   │    │   modules      │
-│ · Crypto       │    │ · Transformers  │    │ · RL engine    │
-│ · Evidence     │    │ · Scikit-learn  │    │ · IoT/RTSP/    │
-│ · Chain of     │    │ · Q-Learning    │    │   ONVIF        │
-│   Custody      │    │                 │    │                │
-└───────┬────────┘    └────────┬────────┘    └────────┬───────┘
-        │                      │                      │
-        └──────────────────────┼──────────────────────┘
-                               │
-┌──────────────────────────────▼──────────────────────────────────────┐
-│                  NATIVE ACCELERATION LAYER                           │
-│                                                                      │
-│   Rust (PyO3) · C17 · C++17 (OpenCV) · Parallel SHA/Blake3         │
-│   4 production workers · 2,684 LOC high-performance native code     │
-└──────────────────────────────┬──────────────────────────────────────┘
-                               │
-┌──────────────────────────────▼──────────────────────────────────────┐
-│                      PERSISTENCE LAYER                               │
-│                                                                      │
-│   PostgreSQL (async) · SQLAlchemy 2.0 · Redis · S3-compatible       │
-│   Alembic migrations · Evidence store with SHA-256 integrity        │
-└─────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│  FRONTEND   React 18 · TypeScript 5.6 · Vite 6 · Zustand           │
+│  22,218 LOC · 41 pages · Orbitron/Rajdhani · dark government theme  │
+├──────────────────────────────────────────────────────────────────────┤
+│  BACKEND    FastAPI 0.115 · Python 3.12 · SQLAlchemy 2.0 async      │
+│  39,141 LOC · 26 modules · 241+ endpoints · RBAC 5 levels           │
+├──────────────────────────────────────────────────────────────────────┤
+│  ML ENGINE  PyTorch 2.6 · Transformers 4.49 · Scikit-learn          │
+│  10 pipelines · YOLOv8 · Sentence-BERT · Q-Learning RL              │
+├──────────────────────────────────────────────────────────────────────┤
+│  NATIVE     Rust+PyO3 · C · C++/OpenCV                              │
+│  38,009 LOC · 20x hashing · 60+ FPS vision · driver-level USB       │
+├──────────────────────────────────────────────────────────────────────┤
+│  SECURITY   Argon2id · JWT HS256 · AES-256 · TLS 1.3               │
+│  SHA-256 chains · immutable audit trail · 5-level RBAC              │
+├──────────────────────────────────────────────────────────────────────┤
+│  INFRA      Railway (Docker) · Vercel (global CDN)                  │
+│  SQLite (dev) → PostgreSQL (enterprise) · SSE · WebSocket           │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
-</div>
-
-<br>
-
 ---
-
-<br>
-
-## 🎯 Who This Is For
-
-<br>
-
-<div align="center">
-
-### 🏛️ **Law Enforcement & Intelligence**
-
-*Police forces · Federal investigators · Intelligence agencies*
-
-Mobile device forensics with court-admissible chain of custody. OSINT correlation across open sources. Cryptographic evidence handling. Aviation and communications intelligence. Multi-language support.
-
-<br>
-
-### 🏦 **Banking & Financial Services**
-
-*Commercial banks · FinTech · Payment processors · Insurance*
-
-Real-time transaction fraud scoring with sub-second latency. Velocity rule engine. Geographic anomaly detection. Card testing pattern recognition. AML workflow integration. Branch video analytics.
-
-<br>
-
-### 🏥 **Healthcare & Life Sciences**
-
-*Hospitals · Clinics · Care homes · Telehealth*
-
-Automatic NEWS2 early warning scoring. Morse Fall Scale risk assessment. Nursing workload SLA monitoring. Ward-level patient fall detection via Vision AI. Wearable IoT integration.
-
-<br>
-
-### 🏭 **Industrial & Manufacturing**
-
-*Factories · Power plants · Refineries · Logistics hubs*
-
-Predictive maintenance from sensor streams. OEE (Overall Equipment Effectiveness) real-time computation. PPE compliance monitoring. AGV safety zones. Robotics quality inspection.
-
-<br>
-
-### 🚚 **Transportation & Fleet**
-
-*Logistics · Public transport · Rideshare · Commercial aviation*
-
-Driver fatigue and distraction detection. EU Regulation 561/2006 compliance monitoring. Tachograph analytics. Route anomaly detection. Aviation ADS-B surveillance.
-
-<br>
-
-### 🏢 **Corporate Security**
-
-*Enterprises · Data centres · Critical infrastructure*
-
-Insider threat detection. Data loss prevention via behavioural analysis. Physical security orchestration. Incident response automation. Executive protection analytics.
-
-</div>
-
-<br>
-
----
-
-<br>
 
 ## 🔐 Security & Compliance
 
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ **Authentication**
-
-- **JWT** with configurable expiration
-- **Argon2id** password hashing *(OWASP recommended)*
-- **RBAC** — CEO / SUPERADMIN / Admin / Operator / Viewer
-- **Plan-based entitlements** with granular feature gates
-- **Session audit** with IP and device fingerprint
-
-### 🔒 **Data Integrity**
-
-- **SHA-256** hash chain for all evidence artifacts
-- **Immutable audit trail** — every operator action logged
-- **AES-256** encryption at rest
-- **TLS 1.3** in transit
-- **Hardware-backed key storage** ready *(TPM / HSM)*
-
-</td>
-<td width="50%" valign="top">
-
-### 📜 **Compliance Readiness**
-
-- **GDPR** *(EU 2016/679)*
-- **LGPD** *(Brazil 13.709/2018)*
-- **NIST SP 800-86** *(forensic integrity)*
-- **ISO/IEC 27037** *(evidence handling)*
-- **OWASP Top 10** security practices
-
-### 🏛️ **Government Tier**
-
-- **Air-gapped on-premise** deployment
-- **Custom SSO** — SAML 2.0 / OIDC
-- **FIPS 140-2** cryptographic profile *(roadmap)*
-- **ISO/IEC 27001** certification *(roadmap)*
-- **Regional data residency** guarantees
-
-</td>
-</tr>
-</table>
-
-<br>
+| Layer | Implementation |
+|---|---|
+| **Authentication** | JWT HS256 · Argon2id · 5-level RBAC |
+| **Data integrity** | SHA-256 per artifact · immutable audit log |
+| **In transit** | TLS 1.3 enforced |
+| **At rest** | AES-256 encryption |
+| **Forensic standards** | NIST SP 800-86 · ISO/IEC 27037 |
+| **Privacy** | GDPR · LGPD ready |
+| **Government tier** | Air-gapped on-premise · SAML 2.0 / OIDC |
+| **Roadmap** | FIPS 140-2 · ISO 27001 · FedRAMP |
 
 ---
 
-<br>
+## 💼 Target Markets
 
-## 🎨 The Design Philosophy
-
-<div align="center">
-
-*"Information density without clutter. Speed without compromise. Beauty through purpose."*
-
-</div>
-
-<br>
-
-Every pixel in ForensicNexus Ultra is engineered for operators who work in high-stakes environments at 3 AM. We rejected the cloud-SaaS aesthetic. We studied NASA mission control, military command centres, and Bloomberg terminals.
-
-The result: a **government-grade command-and-control interface** that feels inevitable the first time you use it.
-
-- **Typography:** Orbitron *(command)* · Rajdhani *(body)* · Share Tech Mono *(data)*
-- **Palette:** Deep space `#020509` · Signal cyan `#00c8ff` · Alert red `#ff2d55` · Critical amber `#ff6b00` · Success `#00ff88`
-- **Principles:** Keyboard-first workflows · Real-time streaming · Dark-mode-only · Information density without noise
-
-<br>
+| Sector | Use Case |
+|---|---|
+| 🏛️ **Law Enforcement** | Mobile forensics · court-admissible evidence · device unlocking |
+| 🏦 **Banking & FinTech** | Real-time fraud · AML · ATM video analytics |
+| 🏥 **Healthcare** | Patient Vision AI · NEWS2 auto-scoring · fall detection |
+| 🏭 **Industrial** | Predictive maintenance · OEE · PPE compliance · AGV safety |
+| 🚚 **Fleet & Transport** | Driver fatigue · EU 561/2006 · route anomaly |
+| 🏢 **Corporate Security** | Insider threat · DLP · incident response |
 
 ---
 
-<br>
+## 💰 Pricing
 
-## 🚀 The Vision
+| Plan | Price | Includes |
+|---|---|---|
+| **Starter** | $99 / month | Forensics Core + OSINT |
+| **Professional** | $299 / month | + ML Engine + Threat Intel |
+| **Enterprise** | $799 / month | Full platform |
+| **Enterprise+** | $1,299 / month | + Vision AI + Aviation |
+| **Government** | Under evaluation | On-premise + SLA + audit support |
 
-### What we are building
-
-<br>
-
-**Short term — Q2/Q3 2026**
-
-- ✅ Unified ML dashboard with RL feedback
-- ✅ Vision AI with 6 specialised modules
-- ✅ Financial · Medical · Industrial · Driver pipelines
-- 🔄 SaaS multi-tenant deployment with Railway + Vercel
-- 🔄 CEO master control panel with kill switch and impersonation
-- 🔄 Progressive Web App *(iOS · Android · Desktop)*
-
-<br>
-
-**Medium term — 2026 / 2027**
-
-- 📋 ISO/IEC 27001 certification
-- 📋 FIPS 140-2 cryptographic compliance
-- 📋 Patent filings at **INPI Portugal** and **EPO Europe**
-  - Operator-in-the-loop RL for forensic surveillance
-  - Sector-specialised Vision AI architecture
-  - Cross-module forensic chain-of-custody protocol
-- 📋 Independent security audit (OWASP ASVS L3)
-- 📋 Penetration testing by accredited partner
-
-<br>
-
-**Long term — 2027+**
-
-- 🎯 Kubernetes-native multi-region deployment
-- 🎯 Edge deployment on NVIDIA Jetson for field operations
-- 🎯 White-label licensing for integrators
-- 🎯 Marketplace of third-party ML models
-- 🎯 SSO enterprise — SAML · OIDC · Azure AD · Okta
-- 🎯 Certified for US Federal procurement *(FedRAMP)*
-
-<br>
+> Add-ons: Vision AI $199/mo · Aviation Intel $99/mo · Extra ML Pipelines $149/mo
 
 ---
 
-<br>
+## 🚀 Full Tech Stack
 
-## 💼 Engineering Philosophy
+```
+BACKEND
+  FastAPI 0.115 · Python 3.12 · SQLAlchemy 2.0 · Pydantic v2 · Alembic
+  PyTorch 2.6 · Transformers 4.49 · YOLOv8 · Scikit-learn
+  pymobiledevice3 · YARA-python · pefile · androguard
+  Argon2-cffi · python-jose · loguru · httpx · aiosqlite
 
-<br>
+FRONTEND
+  React 18 · TypeScript 5.6 · Vite 6 · Zustand · React Router 6
+  Recharts · Lucide React · Orbitron · Rajdhani · Share Tech Mono
 
-> **Built from first principles.** Not a wrapper over open-source tools.
-> Not a GPT-generated demo. Every module designed, coded, and tested by hand.
+NATIVE WORKERS
+  Rust 1.80 + PyO3 + Rayon  →  parallel SHA256/Blake3
+  C17 + libusb               →  USB driver level
+  C++17 + OpenCV 4 + pybind11 → frame processing + CUDA
 
-<br>
-
-> **Production over prototype.** 63,094 lines of code running real workloads.
-> Not a proof of concept. Not a slide deck. An operational platform.
-
-<br>
-
-> **Auditable by design.** Every claim in this document has a line count,
-> a file path, and a git commit to prove it. Zero vapourware.
-
-<br>
-
-> **Obsessive about correctness.** Async SQLAlchemy throughout. Pydantic v2
-> validation on every boundary. TypeScript strict mode. Zero `any` types.
-
-<br>
-
-> **Respectful of operators.** The people using this at 3 AM deserve tools
-> that respect their intelligence, their time, and their judgement.
-
-<br>
+INFRASTRUCTURE
+  Backend   →  Railway (Docker · python:3.12-slim)
+  Frontend  →  Vercel (Vite · global CDN)
+  Database  →  SQLite (dev) · PostgreSQL (enterprise)
+```
 
 ---
 
-<br>
+## 🎨 Design Philosophy
+
+Every pixel engineered for operators who work in high-stakes environments at 3 AM. We rejected cloud-SaaS aesthetics. We studied NASA mission control, military command centres, Bloomberg terminals.
+
+**Typography:** Orbitron (command) · Rajdhani (body) · Share Tech Mono (data)  
+**Palette:** `#020509` deep space · `#00c8ff` signal cyan · `#ff2d55` alert · `#00ff88` clear  
+**Principles:** Keyboard-first · real-time streaming · dark-mode-only · information density without noise
+
+---
 
 ## 📞 Contact
 
 <div align="center">
 
-### Interested in ForensicNexus Ultra?
+| | |
+|---|---|
+| 📧 **Email** | contact@forensicnexus.io |
+| 🌐 **Platform** | [forensicnexus-frontend.vercel.app](https://forensicnexus-frontend.vercel.app) |
+| 🔗 **GitHub** | [github.com/adailtoncunha32](https://github.com/adailtoncunha32) |
 
-**For investors** — happy to walk through the platform, architecture, financial model, and roadmap.
+**Adailton Cunha** — Founder · CEO · Principal Engineer · 🇵🇹 Lisbon, Portugal
 
-**For recruiters** — this repository is the work of a single engineer over 6+ months.  
-It is the portfolio.
-
-**For institutional buyers** — the Government Tier requires a formal evaluation process. Let's talk.
-
-<br>
-
-**Adailton Cunha**  
-*Founder · CEO · Principal Engineer*  
-🇵🇹 Based in Portugal · 🌍 Available globally
+*Open to: investment · enterprise licensing · government contracts · technical partnership*
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-adailtoncunha32-181717?style=for-the-badge&logo=github)](https://github.com/adailtoncunha32)
+[![Contact](https://img.shields.io/badge/Email-contact%40forensicnexus.io-00c8ff?style=for-the-badge)](mailto:contact@forensicnexus.io)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-00c8ff?style=for-the-badge)](https://forensicnexus-frontend.vercel.app)
+[![Health](https://img.shields.io/badge/API-Health_Check-00c8ff?style=for-the-badge)](https://forensicnexus-backend-production.up.railway.app/health)
 
 </div>
 
-<br>
-
 ---
-
-<br>
 
 <div align="center">
 
-### 🛡️ **ForensicNexus Ultra v5.0**
+**113,048 lines · 6 months · Solo · From first principles · Lisbon, Portugal 🇵🇹**
 
-*The Operating System for Digital Truth*
-
-<br>
-
-**Proprietary · All Rights Reserved · © 2026 ForensicNexus**
-
-<br>
-
-*This repository is a public description of the ForensicNexus Ultra platform.*  
-*The source code is maintained in private repositories.*  
-*Patents pending. Unauthorised commercial use prohibited.*
-
-<br>
-
-<sub>Made with engineering obsession in Lisbon, Portugal 🇵🇹</sub>
+*Proprietary · All Rights Reserved · © 2026 ForensicNexus*  
+*Source code in private repositories · Patents pending*
 
 </div>
